@@ -1,0 +1,74 @@
+[
+    {
+        "status": "AUTHORIZED",
+        "uid": "Q7R8S9T0",
+        "name": "David Wilson",
+        "department": "BBA",
+        "year": "5th",
+        "section": "F6",
+        "roll": "321654",
+        "email": "david.wilson@example.com",
+        "timestamp": "2024-07-17 09:00:00",
+        "approved": true
+    },
+    {
+        "status": "AUTHORIZED",
+        "uid": "A1B2C3D4",
+        "name": "John Doe",
+        "department": "EEE",
+        "year": "3rd",
+        "section": "B2",
+        "roll": "123456",
+        "email": "john.doe@example.com",
+        "timestamp": "2024-07-13 14:30:00",
+        "approved": true
+    },
+    {
+        "status": "AUTHORIZED",
+        "uid": "E5F6G7H8",
+        "name": "Jane Smith",
+        "department": "ME",
+        "year": "2nd",
+        "section": "C3",
+        "roll": "654321",
+        "email": "jane.smith@example.com",
+        "timestamp": "2024-07-14 08:45:00",
+        "approved": true
+    },
+    {
+        "status": "AUTHORIZED",
+        "uid": "I9J0K1L2",
+        "name": "Michael Brown",
+        "department": "CE",
+        "year": "4th",
+        "section": "D4",
+        "roll": "987654",
+        "email": "michael.brown@example.com",
+        "timestamp": "2024-07-15 10:20:00",
+        "approved": true
+    },
+    {
+        "status": "AUTHORIZED",
+        "uid": "M3N4O5P6",
+        "name": "Emily Davis",
+        "department": "CSE",
+        "year": "1st",
+        "section": "E5",
+        "roll": "456789",
+        "email": "emily.davis@example.com",
+        "timestamp": "2024-07-16 12:15:00",
+        "approved": true
+    },
+    {
+        "status": "AUTHORIZED",
+        "uid": "Q7R8S9T0",
+        "name": "David Wilson",
+        "department": "BBA",
+        "year": "5th",
+        "section": "F6",
+        "roll": "321654",
+        "email": "david.wilson@example.com",
+        "timestamp": "2024-07-17 09:00:00",
+        "approved": true
+    }
+]
